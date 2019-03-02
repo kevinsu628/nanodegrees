@@ -85,15 +85,15 @@ document.querySelector("#task")
     }
 });
 
-      //build task item
+      build task item
 
 
-      //     document.querySelector("#welcomeMessageName").addEventListener("keyup", function(event) {
-      //     if (event.keyCode === 13) {
-      //         event.preventDefault();
-      //         var name = document.querySelector("#welcomeMessageName")
-      //         document.querySelector("#welcomeMessageName").style.display = "none";
-      //
-      //         document.querySelector("#welcomeMessage").innerText += "Good Morning " + name.value + " ☀️";
-      //     }
-      // });
+          document.querySelector("#welcomeMessageName").addEventListener("keyup", function(event) {
+          if (event.keyCode === 13) {
+              event.preventDefault();
+              var name = document.querySelector("#welcomeMessageName")
+              document.querySelector("#welcomeMessageName").style.display = "none";
+
+              document.querySelector("#welcomeMessage").innerText += "Good Morning " + name.value + " ☀️";
+          }
+      });
