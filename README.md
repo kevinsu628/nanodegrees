@@ -3,7 +3,7 @@ Work completed for Udacity's Nanodegrees.
 
 ## Projects
 
-Finding Donors for CharityML
+[Finding Donors for CharityML](https://github.com/justinhoughton/nanodegrees/tree/master/p1_charityml)
 
 ...
 
