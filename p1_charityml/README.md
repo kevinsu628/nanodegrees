@@ -1,4 +1,3 @@
-# Intro To Machine Learning Nanodegree
 ## Project: Finding Donors for CharityML
 
 ### Install
