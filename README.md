@@ -1,15 +1,19 @@
 # Nanodegrees
-Work completed for Udacity's Nanodegrees.
+Project and lesson work completed for Udacity's Intro To Machine Learning with Pytorch Nanodegree
 
 ## Projects
 
 [Finding Donors for CharityML](https://github.com/justinhoughton/nanodegrees/tree/master/p1_charityml)
 
+## Lessons
+
+[Implimenting Gradient Descent](https://github.com/justinhoughton/nanodegrees/tree/master/gradient_descent)
+
 ...
 
 # Requirements
 
-This projects requires Python 3.x and the following Python libraries:
+Project/lessons require Python 3.x and the following Python libraries:
 
     NumPy
     Pandas
